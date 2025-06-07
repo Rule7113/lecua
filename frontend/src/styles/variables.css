@@ -1,0 +1,53 @@
+:root {
+  /* Primary Colors */
+  --primary: #1976d2;
+  --primary-light: #42a5f5;
+  --primary-dark: #1565c0;
+
+  /* Secondary Colors */
+  --secondary: #9c27b0;
+  --secondary-light: #ba68c8;
+  --secondary-dark: #7b1fa2;
+
+  /* Background Colors */
+  --background-dark: #1a1a1a;
+  --background-light: #2d2d2d;
+  --background-paper: #ffffff;
+  --background-default: #f5f5f5;
+
+  /* Text Colors */
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+
+  /* Status Colors */
+  --error: #ff4444;
+  --error-light: rgba(255, 68, 68, 0.1);
+  --success: #00C851;
+  --success-light: rgba(0, 200, 81, 0.1);
+
+  /* Border Colors */
+  --border-color: #404040;
+
+  /* Interactive Colors */
+  --hover: rgba(255, 255, 255, 0.1);
+}
+
+/* Dark theme overrides */
+[data-theme="dark"] {
+  --background-default: var(--background-dark);
+  --background-paper: var(--background-light);
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --border-color: #404040;
+  --hover: rgba(255, 255, 255, 0.1);
+}
+
+/* Light theme overrides */
+[data-theme="light"] {
+  --background-default: #f5f5f5;
+  --background-paper: #ffffff;
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  --border-color: #e0e0e0;
+  --hover: rgba(0, 0, 0, 0.04);
+} 

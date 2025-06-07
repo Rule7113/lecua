@@ -1,0 +1,133 @@
+LEGAL DOCUMENT ANALYSIS SYSTEM - USER MANUAL
+=========================================
+
+1. INTRODUCTION
+--------------
+The Legal Document Analysis System (LECUA) is an AI-powered platform designed to help users analyze legal documents, get instant insights, and manage their legal document workflow efficiently. This manual will guide you through all the features and functionalities of the system.
+
+2. GETTING STARTED
+-----------------
+2.1 Accessing the System
+- Open your web browser and navigate to the system URL
+- You will be presented with the welcome page featuring three main features:
+  * Document Analysis
+  * Secure Processing
+  * Quick Results
+
+2.2 Account Management
+- New users can create an account by clicking the "Sign Up" button
+- Existing users can log in using their credentials
+- The system supports secure authentication with token-based security
+
+3. MAIN FEATURES
+---------------
+3.1 Document Analysis
+- Upload legal documents through the chat interface
+- Supported file formats: PDF, DOCX, and text files
+- The system will analyze the document and provide instant insights
+- You can ask follow-up questions about the document
+
+3.2 Chat Interface
+- Located in the main dashboard
+- Features:
+  * Document upload button
+  * Text input for questions
+  * Export options for analysis results
+  * Real-time chat with AI assistant
+
+3.3 History
+- Access your past analyses and conversations
+- Search through your history using the search bar
+- View detailed information about each analysis
+- Export previous analyses
+
+4. USER INTERFACE
+----------------
+4.1 Navigation
+- Sidebar menu for easy navigation between features
+- Collapsible sidebar for more screen space
+- Quick access to:
+  * New Chat
+  * History
+  * Reports
+  * Settings
+
+4.2 Settings
+- Access through the sidebar menu
+- Available options:
+  * Dark/Light mode toggle
+  * Notification preferences
+  * Auto-save settings
+  * Password management
+
+5. ADMINISTRATIVE FEATURES
+-------------------------
+5.1 Admin Dashboard
+- Overview of system statistics
+- User management
+- Report handling
+- System database access
+- Analytics and reporting
+
+5.2 User Management
+- View all registered users
+- Manage user permissions
+- Reset user passwords
+- Monitor user activity
+
+6. EXPORTING AND SHARING
+-----------------------
+6.1 Export Options
+- Export analysis results as PDF
+- Export analysis results as Word document
+- Copy results to clipboard
+
+6.2 Security
+- All exports are encrypted
+- Secure file handling
+- End-to-end encryption for sensitive data
+
+7. TROUBLESHOOTING
+-----------------
+7.1 Common Issues
+- If you encounter login issues:
+  * Clear browser cache
+  * Ensure correct credentials
+  * Contact system administrator
+
+7.2 Reporting Issues
+- Use the "Report Issue" feature in the sidebar
+- Provide detailed information about the problem
+- Include steps to reproduce the issue
+- Attach relevant screenshots if possible
+
+8. BEST PRACTICES
+----------------
+8.1 Document Analysis
+- Upload clear, readable documents
+- Break down complex questions into smaller parts
+- Use specific keywords for better results
+- Review analysis results carefully
+
+8.2 Security
+- Regularly update your password
+- Log out after each session
+- Don't share your credentials
+- Report suspicious activities
+
+9. SUPPORT
+---------
+For technical support or questions:
+- Use the in-app reporting system
+- Contact your system administrator
+- Check the FAQ section
+- Review system updates and announcements
+
+10. SYSTEM REQUIREMENTS
+----------------------
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Stable internet connection
+- JavaScript enabled
+- Minimum screen resolution: 1024x768
+
+Note: This manual is subject to updates as new features are added to the system. Always check for the latest version of the documentation. 
